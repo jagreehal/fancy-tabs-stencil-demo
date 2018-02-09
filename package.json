@@ -1,6 +1,6 @@
 {
   "name": "stencil-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Stencil boilerplate",
   "main": "dist/stencil-app.js",
   "types": "dist/types/components.d.ts",
@@ -27,7 +27,7 @@
   "author": "Jag Reehal",
   "license": "ISC",
   "dependencies": {
-    "@stencil/core": "next"
+    "@stencil/core": "0.4.0"
   },
   "devDependencies": {
     "@stencil/dev-server": "^0.0.18",

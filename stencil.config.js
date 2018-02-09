@@ -1,8 +1,7 @@
 exports.config = {
   namespace: 'stencil-app',
   generateDistribution: true,
-  generateWWW: true,
-  bundles: [{ components: ['fancy-tabs'] }]
+  generateWWW: true
 };
 
 exports.devServer = { root: 'www', watchGlob: '**/**' };
