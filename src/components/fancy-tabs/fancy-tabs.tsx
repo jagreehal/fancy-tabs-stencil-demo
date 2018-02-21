@@ -2,7 +2,7 @@ import { Component, Element, State, Watch } from '@stencil/core';
 
 @Component({
   tag: 'fancy-tabs',
-  styleUrl: 'fancy-tabs.scss',
+  styleUrl: 'fancy-tabs.css',
   shadow: true
 })
 export class FancyTabs {
